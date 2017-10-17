@@ -34,3 +34,10 @@ body {
 .navbar-inverse {
      background-color: #512DA8;
 }
+.card-row-content {
+  margin:0px auto;
+  padding: 15px 0px 0px 0px;
+}
+.card-header {
+  color : white;
+}
